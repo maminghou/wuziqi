@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wzqi/static/css/main.f6ff2a89.css",
+    "main.js": "/wzqi/static/js/main.2661d82c.js",
+    "index.html": "/wzqi/index.html",
+    "main.f6ff2a89.css.map": "/wzqi/static/css/main.f6ff2a89.css.map",
+    "main.2661d82c.js.map": "/wzqi/static/js/main.2661d82c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ff2a89.css",
+    "static/js/main.2661d82c.js"
+  ]
+}
